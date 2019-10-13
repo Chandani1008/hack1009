@@ -1,3 +1,5 @@
 print("Print an Emoji:")
 print("\U0001F601")
-print("\UOOO1F865")
+
+print("\U0001F609")
+
